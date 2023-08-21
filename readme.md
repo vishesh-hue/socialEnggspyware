@@ -29,7 +29,7 @@ by @vishesh-hue
 <br>
 
 
-### Installation On Kali Linux 
+### Installation On Linux 
 
 
 ```bash
